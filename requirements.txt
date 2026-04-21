@@ -1,0 +1,34 @@
+# Document Layout + OCR Pipeline — Requirements
+# Run: pip install -r requirements.txt
+
+# Core deep learning
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Detectron2 — install separately (see README)
+# pip install git+https://github.com/facebookresearch/detectron2.git
+
+# Transformer OCR — removed (using PaddleOCR instead)
+# transformers>=4.35.0
+# timm>=0.9.0
+
+# PaddleOCR
+paddlepaddle>=2.5.0
+paddleocr>=2.7.0
+
+# Image processing
+opencv-python>=4.8.0
+Pillow>=10.0.0
+numpy>=1.24.0
+
+# PDF handling
+pdf2image>=1.16.3
+# Also install poppler:
+#   Windows : https://github.com/oschwartz10612/poppler-windows/releases
+#   Linux   : sudo apt install poppler-utils
+#   Mac     : brew install poppler
+
+# Utilities
+fvcore
+cloudpickle
+pycocotools
