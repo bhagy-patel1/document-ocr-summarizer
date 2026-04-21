@@ -1,0 +1,92 @@
+[
+    {
+        "bbox": [
+            46,
+            69,
+            547,
+            99
+        ],
+        "text": "rCl was less than 60 mL-min pt he study period (37 patients),"
+    },
+    {
+        "bbox": [
+            47,
+            276,
+            137,
+            293
+        ],
+        "text": "*Measured not estimated."
+    },
+    {
+        "bbox": [
+            45,
+            314,
+            297,
+            344
+        ],
+        "text": "value) which is perhaps more useful comparison hence its use in this analysis."
+    },
+    {
+        "bbox": [
+            303,
+            314,
+            554,
+            356
+        ],
+        "text": "equations actually perform worse than the original MDRD equations in patients with AKI."
+    },
+    {
+        "bbox": [
+            46,
+            335,
+            294,
+            448
+        ],
+        "text": "A recent study of eGFR performance in renal transplant patients, [39] used Bland-Altman analysis and described the bias of C&G, aMDRD, and MDRD 7 as 15.2, 9.2, and 7.4 and worse than this study. The precision (25.4%, 21.9%, and 20%, resp.) however, was better and within a range suggested previously [38]. The percentage of values within 30% of the 4CrCl (P) (37, 60, and 67.4, resp.) was comparable to the data from this study, and the use of the equations in renal. transplant recipients is recommended."
+    },
+    {
+        "bbox": [
+            304,
+            385,
+            552,
+            552
+        ],
+        "text": "Measuring rapid changes in renal function accurately in. critically ill patients is difficult and there is no gold standard method. A useful, routine exogenous marker has remained elusive and there are well-described difficulties when inter- preting creatinine clearance. Tubular secretion and extrarenal thus exaggerating the discrepancy between the clearance of elimination of creatinine increases as GFR deteriorates, creatinine and true renal function [47]. In addition, serum creatinine concentrations are influenced by muscle mass, protein intake, gender, and age, limiting the precision further. The influence of these factors in the acute setting is not clear. However, over a period of hours and days, as the renal. function deteriorates in AKI, one would anticipate that these other factors would remain relatively constant."
+    },
+    {
+        "bbox": [
+            46,
+            439,
+            294,
+            493
+        ],
+        "text": "When introduced, the CKD-EPI equation [7] had a bias of 2.1 mL-min per 1.73 m and a P of 79.9%, which are better than data presented in this study and comparable only to the"
+    },
+    {
+        "bbox": [
+            46,
+            486,
+            295,
+            645
+        ],
+        "text": "with methods incorporating serum creatinine have shown Using methods based on cystatin C when compared a higher correlation and improved accuracy in predicting GFR in patients with various degrees of renal function, liver disease, and spinal cord injuries [17]. However, results in patients with diabetes, paediatric patients, and those with between cystatin C and creatinine based eGFR, indicating early renal impairment did not show a significant difference that the performance may be patient population specific [40 43]. Human studies also suggest that cystatin C can predict the development of AKI [44] and the requirement for renal replacement therapy [45], although its superiority over serum creatinine has not been a universal finding [46]."
+    },
+    {
+        "bbox": [
+            304,
+            542,
+            553,
+            746
+        ],
+        "text": "gold standard, the CrCl was piloted as a baseline standard. It incorporates both changes in creatinine and urine output and is supported by an evidence base. A small study of eighteen critically ill patients used correlation coefficients to compare clearance of DTPA or inulin (their gold-standard measure) to 2-hour creatinine clearance (CrCl) [48]. The authors conclude that a CrCl is not an accurate description of inulin clearance, in this population, when the GFR is 30 mL-min. However, reanalysis of the published raw data reveals a correlation coefficient (r) between DTPA and 2- hour creatinine clearance of 0.92 (P  0.001) though this is not discussed in the original paper. Perhaps the more encouraging conclusion should include the close relationship with DTPA clearance. There is no mention of urine volume during the study time period and patients with very low DTPA clearances (2 mL-min1) were included."
+    },
+    {
+        "bbox": [
+            46,
+            637,
+            294,
+            746
+        ],
+        "text": "Data presene very broad range of both CrCl and cystatin measurement across cystatin C increased with worsening renal function measured each of the AKIN/RIFLE criteria. Figure 3 shows that serum by CrCl, but the correlation coefficient is not compelling and the confidence intervals are wide. When originally derived, the equations which incorporate cystatin C showed minimal bias and excellent accuracy with Po of 81%, 83%, and 89% for cystatin C1, C3, and C4 equations, respectively [16]. These"
+    }
+]

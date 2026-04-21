@@ -1,0 +1,155 @@
+{
+  "file": "input\\test2.jpg",
+  "image_size": {
+    "width": 596,
+    "height": 794
+  },
+  "n_regions": 8,
+  "det_time_s": 2.401,
+  "regions": [
+    {
+      "id": 0,
+      "label": "text",
+      "bbox": {
+        "x1": 39,
+        "y1": 53,
+        "x2": 544,
+        "y2": 83
+      },
+      "score": 0.9980000257492065,
+      "text": "",
+      "segment_summary": ""
+    },
+    {
+      "id": 1,
+      "label": "table",
+      "bbox": {
+        "x1": 40,
+        "y1": 67,
+        "x2": 556,
+        "y2": 443
+      },
+      "score": 0.9959999918937683,
+      "text": "",
+      "segment_summary": "",
+      "rows": 0,
+      "cols": 0,
+      "raw_text": ""
+    },
+    {
+      "id": 2,
+      "label": "text",
+      "bbox": {
+        "x1": 46,
+        "y1": 427,
+        "x2": 533,
+        "y2": 464
+      },
+      "score": 0.9919999837875366,
+      "text": "",
+      "segment_summary": ""
+    },
+    {
+      "id": 3,
+      "label": "text",
+      "bbox": {
+        "x1": 302,
+        "y1": 466,
+        "x2": 562,
+        "y2": 622
+      },
+      "score": 0.9990000128746033,
+      "text": "",
+      "segment_summary": ""
+    },
+    {
+      "id": 4,
+      "label": "text",
+      "bbox": {
+        "x1": 45,
+        "y1": 468,
+        "x2": 305,
+        "y2": 507
+      },
+      "score": 0.996999979019165,
+      "text": "",
+      "segment_summary": ""
+    },
+    {
+      "id": 5,
+      "label": "text",
+      "bbox": {
+        "x1": 46,
+        "y1": 486,
+        "x2": 306,
+        "y2": 706
+      },
+      "score": 0.9990000128746033,
+      "text": "",
+      "segment_summary": ""
+    },
+    {
+      "id": 6,
+      "label": "text",
+      "bbox": {
+        "x1": 303,
+        "y1": 604,
+        "x2": 561,
+        "y2": 738
+      },
+      "score": 1.0,
+      "text": "",
+      "segment_summary": ""
+    },
+    {
+      "id": 7,
+      "label": "text",
+      "bbox": {
+        "x1": 43,
+        "y1": 687,
+        "x2": 309,
+        "y2": 738
+      },
+      "score": 0.9990000128746033,
+      "text": "",
+      "segment_summary": ""
+    }
+  ],
+  "titles": [],
+  "text_blocks": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "lists": [],
+  "tables": [
+    {
+      "bbox": {
+        "x1": 40,
+        "y1": 67,
+        "x2": 556,
+        "y2": 443
+      },
+      "rows": 0,
+      "cols": 0,
+      "cells": [],
+      "raw_text": ""
+    }
+  ],
+  "figures": [],
+  "ocr_time_s": 0.009,
+  "annotated_image": "output\\test2_annotated.jpg",
+  "summarization": {
+    "sections": [
+      {
+        "title": "Document",
+        "summary": "Table presents comparison data across 0 columns and 0 rows"
+      }
+    ],
+    "final_summary": "Table presents comparison data across"
+  }
+}

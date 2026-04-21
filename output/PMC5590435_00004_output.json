@@ -1,0 +1,150 @@
+{
+  "file": "input\\PMC5590435_00004.jpg",
+  "image_size": {
+    "width": 596,
+    "height": 842
+  },
+  "n_regions": 9,
+  "det_time_s": 2.502,
+  "regions": [
+    {
+      "id": 0,
+      "label": "text",
+      "bbox": {
+        "x1": 68,
+        "y1": 76,
+        "x2": 529,
+        "y2": 192
+      },
+      "score": 0.9929999709129333,
+      "text": "",
+      "segment_summary": ""
+    },
+    {
+      "id": 1,
+      "label": "text",
+      "bbox": {
+        "x1": 66,
+        "y1": 77,
+        "x2": 529,
+        "y2": 286
+      },
+      "score": 0.9120000004768372,
+      "text": "",
+      "segment_summary": ""
+    },
+    {
+      "id": 2,
+      "label": "text",
+      "bbox": {
+        "x1": 63,
+        "y1": 173,
+        "x2": 529,
+        "y2": 299
+      },
+      "score": 0.9959999918937683,
+      "text": "",
+      "segment_summary": ""
+    },
+    {
+      "id": 3,
+      "label": "text",
+      "bbox": {
+        "x1": 65,
+        "y1": 280,
+        "x2": 530,
+        "y2": 395
+      },
+      "score": 0.9990000128746033,
+      "text": "",
+      "segment_summary": ""
+    },
+    {
+      "id": 4,
+      "label": "title",
+      "bbox": {
+        "x1": 66,
+        "y1": 384,
+        "x2": 173,
+        "y2": 417
+      },
+      "score": 0.9769999980926514,
+      "text": "",
+      "segment_summary": ""
+    },
+    {
+      "id": 5,
+      "label": "text",
+      "bbox": {
+        "x1": 66,
+        "y1": 404,
+        "x2": 530,
+        "y2": 531
+      },
+      "score": 0.9990000128746033,
+      "text": "",
+      "segment_summary": ""
+    },
+    {
+      "id": 6,
+      "label": "text",
+      "bbox": {
+        "x1": 65,
+        "y1": 512,
+        "x2": 530,
+        "y2": 666
+      },
+      "score": 0.9990000128746033,
+      "text": "",
+      "segment_summary": ""
+    },
+    {
+      "id": 7,
+      "label": "title",
+      "bbox": {
+        "x1": 66,
+        "y1": 657,
+        "x2": 176,
+        "y2": 690
+      },
+      "score": 0.9700000286102295,
+      "text": "",
+      "segment_summary": ""
+    },
+    {
+      "id": 8,
+      "label": "text",
+      "bbox": {
+        "x1": 65,
+        "y1": 675,
+        "x2": 530,
+        "y2": 790
+      },
+      "score": 0.9980000257492065,
+      "text": "",
+      "segment_summary": ""
+    }
+  ],
+  "titles": [
+    "",
+    ""
+  ],
+  "text_blocks": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "lists": [],
+  "tables": [],
+  "figures": [],
+  "ocr_time_s": 0.0,
+  "annotated_image": "output\\PMC5590435_00004_annotated.jpg",
+  "summarization": {
+    "sections": [],
+    "final_summary": "No content to summarize."
+  }
+}

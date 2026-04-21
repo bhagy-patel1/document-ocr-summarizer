@@ -1,0 +1,164 @@
+{
+  "file": "input\\PMC5624106_00000.jpg",
+  "image_size": {
+    "width": 596,
+    "height": 842
+  },
+  "n_regions": 10,
+  "det_time_s": 2.732,
+  "regions": [
+    {
+      "id": 0,
+      "label": "title",
+      "bbox": {
+        "x1": 52,
+        "y1": 117,
+        "x2": 523,
+        "y2": 202
+      },
+      "score": 0.996999979019165,
+      "text": "",
+      "segment_summary": ""
+    },
+    {
+      "id": 1,
+      "label": "text",
+      "bbox": {
+        "x1": 50,
+        "y1": 191,
+        "x2": 549,
+        "y2": 254
+      },
+      "score": 0.9919999837875366,
+      "text": "",
+      "segment_summary": ""
+    },
+    {
+      "id": 2,
+      "label": "text",
+      "bbox": {
+        "x1": 54,
+        "y1": 261,
+        "x2": 553,
+        "y2": 455
+      },
+      "score": 0.9990000128746033,
+      "text": "",
+      "segment_summary": ""
+    },
+    {
+      "id": 3,
+      "label": "text",
+      "bbox": {
+        "x1": 56,
+        "y1": 461,
+        "x2": 492,
+        "y2": 492
+      },
+      "score": 0.9940000176429749,
+      "text": "",
+      "segment_summary": ""
+    },
+    {
+      "id": 4,
+      "label": "title",
+      "bbox": {
+        "x1": 52,
+        "y1": 495,
+        "x2": 132,
+        "y2": 527
+      },
+      "score": 0.9729999899864197,
+      "text": "",
+      "segment_summary": ""
+    },
+    {
+      "id": 5,
+      "label": "text",
+      "bbox": {
+        "x1": 296,
+        "y1": 496,
+        "x2": 552,
+        "y2": 552
+      },
+      "score": 0.9980000257492065,
+      "text": "",
+      "segment_summary": ""
+    },
+    {
+      "id": 6,
+      "label": "text",
+      "bbox": {
+        "x1": 53,
+        "y1": 508,
+        "x2": 306,
+        "y2": 708
+      },
+      "score": 0.9990000128746033,
+      "text": "",
+      "segment_summary": ""
+    },
+    {
+      "id": 7,
+      "label": "text",
+      "bbox": {
+        "x1": 296,
+        "y1": 532,
+        "x2": 551,
+        "y2": 625
+      },
+      "score": 1.0,
+      "text": "",
+      "segment_summary": ""
+    },
+    {
+      "id": 8,
+      "label": "text",
+      "bbox": {
+        "x1": 297,
+        "y1": 604,
+        "x2": 551,
+        "y2": 755
+      },
+      "score": 0.9990000128746033,
+      "text": "",
+      "segment_summary": ""
+    },
+    {
+      "id": 9,
+      "label": "text",
+      "bbox": {
+        "x1": 297,
+        "y1": 736,
+        "x2": 551,
+        "y2": 792
+      },
+      "score": 0.996999979019165,
+      "text": "",
+      "segment_summary": ""
+    }
+  ],
+  "titles": [
+    "",
+    ""
+  ],
+  "text_blocks": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "lists": [],
+  "tables": [],
+  "figures": [],
+  "ocr_time_s": 0.001,
+  "annotated_image": "output\\PMC5624106_00000_annotated.jpg",
+  "summarization": {
+    "sections": [],
+    "final_summary": "No content to summarize."
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "file": "input\\PMC4972521_00010.jpg",
+  "image_size": {
+    "width": 596,
+    "height": 794
+  },
+  "n_regions": 2,
+  "det_time_s": 2.369,
+  "regions": [
+    {
+      "id": 0,
+      "label": "figure",
+      "bbox": {
+        "x1": 88,
+        "y1": 81,
+        "x2": 511,
+        "y2": 661
+      },
+      "score": 0.9959999918937683,
+      "text": "[FIGURE saved: PMC4972521_00010_figure_0.jpg]",
+      "segment_summary": ""
+    },
+    {
+      "id": 1,
+      "label": "text",
+      "bbox": {
+        "x1": 35,
+        "y1": 649,
+        "x2": 571,
+        "y2": 755
+      },
+      "score": 0.9980000257492065,
+      "text": "",
+      "segment_summary": ""
+    }
+  ],
+  "titles": [],
+  "text_blocks": [
+    ""
+  ],
+  "lists": [],
+  "tables": [],
+  "figures": [
+    {
+      "bbox": {
+        "x1": 88,
+        "y1": 81,
+        "x2": 511,
+        "y2": 661
+      },
+      "caption": ""
+    }
+  ],
+  "ocr_time_s": 0.009,
+  "annotated_image": "output\\PMC4972521_00010_annotated.jpg",
+  "summarization": {
+    "sections": [
+      {
+        "title": "Document",
+        "summary": "Figure shows key visual data"
+      }
+    ],
+    "final_summary": "Figure shows key visual data"
+  }
+}

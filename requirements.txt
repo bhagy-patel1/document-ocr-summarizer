@@ -2,8 +2,8 @@
 # Run: pip install -r requirements.txt
 
 # Core deep learning
-torch>=2.0.0
-torchvision>=0.15.0
+torch==2.0.1
+torchvision==0.15.2
 
 # Detectron2 — install separately (see README)
 # pip install git+https://github.com/facebookresearch/detectron2.git
@@ -13,22 +13,22 @@ torchvision>=0.15.0
 # timm>=0.9.0
 
 # PaddleOCR
-paddlepaddle>=2.5.0
-paddleocr>=2.7.0
+paddlepaddle==2.6.2
+paddleocr==2.7.0.0
 
 # Image processing
-opencv-python>=4.8.0
-Pillow>=10.0.0
-numpy>=1.24.0
+opencv-python==4.6.0.66
+Pillow==10.0.1
+numpy==1.26.4
 
 # PDF handling
-pdf2image>=1.16.3
+pdf2image==1.16.3
 # Also install poppler:
 #   Windows : https://github.com/oschwartz10612/poppler-windows/releases
 #   Linux   : sudo apt install poppler-utils
 #   Mac     : brew install poppler
 
 # Utilities
-fvcore
-cloudpickle
-pycocotools
+fvcore==0.1.5.post20221221
+cloudpickle==3.1.2
+pycocotools==2.0.11

@@ -1,0 +1,226 @@
+{
+  "total_files": 22,
+  "total_time_s": 87.17,
+  "files": [
+    {
+      "file": "input\\annotations.png",
+      "regions": 0,
+      "titles": 0,
+      "text": 0,
+      "tables": 0,
+      "figures": 0,
+      "status": "ok",
+      "time_s": 1.61
+    },
+    {
+      "file": "input\\image.jpg",
+      "regions": 26,
+      "titles": 5,
+      "text": 17,
+      "tables": 1,
+      "figures": 3,
+      "status": "ok",
+      "time_s": 16.44
+    },
+    {
+      "file": "input\\PMC3654277_00006.jpg",
+      "regions": 13,
+      "titles": 1,
+      "text": 10,
+      "tables": 0,
+      "figures": 1,
+      "status": "ok",
+      "time_s": 4.21
+    },
+    {
+      "file": "input\\PMC3777717_00006.jpg",
+      "regions": 5,
+      "titles": 0,
+      "text": 4,
+      "tables": 0,
+      "figures": 1,
+      "status": "ok",
+      "time_s": 3.28
+    },
+    {
+      "file": "input\\PMC3863500_00003.jpg",
+      "regions": 6,
+      "titles": 0,
+      "text": 5,
+      "tables": 1,
+      "figures": 0,
+      "status": "ok",
+      "time_s": 4.42
+    },
+    {
+      "file": "input\\PMC4027932_00001.jpg",
+      "regions": 8,
+      "titles": 1,
+      "text": 7,
+      "tables": 0,
+      "figures": 0,
+      "status": "ok",
+      "time_s": 2.54
+    },
+    {
+      "file": "input\\PMC4527132_00004.jpg",
+      "regions": 8,
+      "titles": 1,
+      "text": 5,
+      "tables": 0,
+      "figures": 2,
+      "status": "ok",
+      "time_s": 3.07
+    },
+    {
+      "file": "input\\PMC4972521_00010.jpg",
+      "regions": 2,
+      "titles": 0,
+      "text": 1,
+      "tables": 0,
+      "figures": 1,
+      "status": "ok",
+      "time_s": 2.99
+    },
+    {
+      "file": "input\\PMC5302692_00002.jpg",
+      "regions": 13,
+      "titles": 2,
+      "text": 11,
+      "tables": 0,
+      "figures": 0,
+      "status": "ok",
+      "time_s": 2.41
+    },
+    {
+      "file": "input\\PMC5344221_00010.jpg",
+      "regions": 12,
+      "titles": 4,
+      "text": 8,
+      "tables": 0,
+      "figures": 0,
+      "status": "ok",
+      "time_s": 2.73
+    },
+    {
+      "file": "input\\PMC5432924_00001.jpg",
+      "regions": 8,
+      "titles": 0,
+      "text": 6,
+      "tables": 0,
+      "figures": 0,
+      "status": "ok",
+      "time_s": 2.51
+    },
+    {
+      "file": "input\\PMC5447509_00002.jpg",
+      "regions": 17,
+      "titles": 3,
+      "text": 12,
+      "tables": 0,
+      "figures": 1,
+      "status": "ok",
+      "time_s": 3.63
+    },
+    {
+      "file": "input\\PMC5491943_00004.jpg",
+      "regions": 10,
+      "titles": 2,
+      "text": 7,
+      "tables": 0,
+      "figures": 0,
+      "status": "ok",
+      "time_s": 2.29
+    },
+    {
+      "file": "input\\PMC5514520_00012.jpg",
+      "regions": 6,
+      "titles": 1,
+      "text": 5,
+      "tables": 0,
+      "figures": 0,
+      "status": "ok",
+      "time_s": 2.48
+    },
+    {
+      "file": "input\\PMC5590435_00004.jpg",
+      "regions": 9,
+      "titles": 2,
+      "text": 7,
+      "tables": 0,
+      "figures": 0,
+      "status": "ok",
+      "time_s": 2.57
+    },
+    {
+      "file": "input\\PMC5618295_00004.jpg",
+      "regions": 6,
+      "titles": 1,
+      "text": 4,
+      "tables": 0,
+      "figures": 1,
+      "status": "ok",
+      "time_s": 3.26
+    },
+    {
+      "file": "input\\PMC5624106_00000.jpg",
+      "regions": 10,
+      "titles": 2,
+      "text": 8,
+      "tables": 0,
+      "figures": 0,
+      "status": "ok",
+      "time_s": 2.78
+    },
+    {
+      "file": "input\\PMC5678782_00005.jpg",
+      "regions": 26,
+      "titles": 7,
+      "text": 18,
+      "tables": 1,
+      "figures": 0,
+      "status": "ok",
+      "time_s": 4.62
+    },
+    {
+      "file": "input\\sample.jpg",
+      "regions": 12,
+      "titles": 1,
+      "text": 10,
+      "tables": 1,
+      "figures": 0,
+      "status": "ok",
+      "time_s": 4.27
+    },
+    {
+      "file": "input\\test.jpg",
+      "regions": 14,
+      "titles": 1,
+      "text": 10,
+      "tables": 2,
+      "figures": 1,
+      "status": "ok",
+      "time_s": 7.92
+    },
+    {
+      "file": "input\\test2.jpg",
+      "regions": 8,
+      "titles": 0,
+      "text": 7,
+      "tables": 1,
+      "figures": 0,
+      "status": "ok",
+      "time_s": 3.99
+    },
+    {
+      "file": "input\\test3.jpg",
+      "regions": 14,
+      "titles": 4,
+      "text": 7,
+      "tables": 0,
+      "figures": 1,
+      "status": "ok",
+      "time_s": 3.15
+    }
+  ]
+}

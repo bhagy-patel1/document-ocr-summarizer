@@ -1,0 +1,136 @@
+{
+  "file": "input\\PMC4027932_00001.jpg",
+  "image_size": {
+    "width": 596,
+    "height": 842
+  },
+  "n_regions": 8,
+  "det_time_s": 2.495,
+  "regions": [
+    {
+      "id": 0,
+      "label": "text",
+      "bbox": {
+        "x1": 39,
+        "y1": 83,
+        "x2": 298,
+        "y2": 535
+      },
+      "score": 0.9990000128746033,
+      "text": "",
+      "segment_summary": ""
+    },
+    {
+      "id": 1,
+      "label": "text",
+      "bbox": {
+        "x1": 302,
+        "y1": 83,
+        "x2": 562,
+        "y2": 138
+      },
+      "score": 0.9959999918937683,
+      "text": "",
+      "segment_summary": ""
+    },
+    {
+      "id": 2,
+      "label": "text",
+      "bbox": {
+        "x1": 318,
+        "y1": 125,
+        "x2": 546,
+        "y2": 255
+      },
+      "score": 0.9879999756813049,
+      "text": "",
+      "segment_summary": ""
+    },
+    {
+      "id": 3,
+      "label": "text",
+      "bbox": {
+        "x1": 302,
+        "y1": 240,
+        "x2": 562,
+        "y2": 647
+      },
+      "score": 1.0,
+      "text": "",
+      "segment_summary": ""
+    },
+    {
+      "id": 4,
+      "label": "text",
+      "bbox": {
+        "x1": 39,
+        "y1": 520,
+        "x2": 298,
+        "y2": 660
+      },
+      "score": 1.0,
+      "text": "",
+      "segment_summary": ""
+    },
+    {
+      "id": 5,
+      "label": "title",
+      "bbox": {
+        "x1": 303,
+        "y1": 641,
+        "x2": 382,
+        "y2": 677
+      },
+      "score": 0.9959999918937683,
+      "text": "",
+      "segment_summary": ""
+    },
+    {
+      "id": 6,
+      "label": "text",
+      "bbox": {
+        "x1": 38,
+        "y1": 645,
+        "x2": 298,
+        "y2": 773
+      },
+      "score": 1.0,
+      "text": "",
+      "segment_summary": ""
+    },
+    {
+      "id": 7,
+      "label": "text",
+      "bbox": {
+        "x1": 302,
+        "y1": 669,
+        "x2": 561,
+        "y2": 773
+      },
+      "score": 0.9990000128746033,
+      "text": "",
+      "segment_summary": ""
+    }
+  ],
+  "titles": [
+    ""
+  ],
+  "text_blocks": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "lists": [],
+  "tables": [],
+  "figures": [],
+  "ocr_time_s": 0.0,
+  "annotated_image": "output\\PMC4027932_00001_annotated.jpg",
+  "summarization": {
+    "sections": [],
+    "final_summary": "No content to summarize."
+  }
+}

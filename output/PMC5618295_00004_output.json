@@ -1,0 +1,122 @@
+{
+  "file": "input\\PMC5618295_00004.jpg",
+  "image_size": {
+    "width": 596,
+    "height": 842
+  },
+  "n_regions": 6,
+  "det_time_s": 2.419,
+  "regions": [
+    {
+      "id": 0,
+      "label": "figure",
+      "bbox": {
+        "x1": 87,
+        "y1": 72,
+        "x2": 508,
+        "y2": 276
+      },
+      "score": 0.9980000257492065,
+      "text": "[FIGURE saved: PMC5618295_00004_figure_0.jpg]",
+      "segment_summary": ""
+    },
+    {
+      "id": 1,
+      "label": "text",
+      "bbox": {
+        "x1": 87,
+        "y1": 265,
+        "x2": 509,
+        "y2": 361
+      },
+      "score": 1.0,
+      "text": "",
+      "segment_summary": ""
+    },
+    {
+      "id": 2,
+      "label": "title",
+      "bbox": {
+        "x1": 66,
+        "y1": 355,
+        "x2": 222,
+        "y2": 387
+      },
+      "score": 0.9909999966621399,
+      "text": "",
+      "segment_summary": ""
+    },
+    {
+      "id": 3,
+      "label": "text",
+      "bbox": {
+        "x1": 66,
+        "y1": 375,
+        "x2": 527,
+        "y2": 515
+      },
+      "score": 0.9980000257492065,
+      "text": "",
+      "segment_summary": ""
+    },
+    {
+      "id": 4,
+      "label": "text",
+      "bbox": {
+        "x1": 66,
+        "y1": 497,
+        "x2": 528,
+        "y2": 692
+      },
+      "score": 0.9990000128746033,
+      "text": "",
+      "segment_summary": ""
+    },
+    {
+      "id": 5,
+      "label": "text",
+      "bbox": {
+        "x1": 64,
+        "y1": 672,
+        "x2": 531,
+        "y2": 772
+      },
+      "score": 1.0,
+      "text": "",
+      "segment_summary": ""
+    }
+  ],
+  "titles": [
+    ""
+  ],
+  "text_blocks": [
+    "",
+    "",
+    "",
+    ""
+  ],
+  "lists": [],
+  "tables": [],
+  "figures": [
+    {
+      "bbox": {
+        "x1": 87,
+        "y1": 72,
+        "x2": 508,
+        "y2": 276
+      },
+      "caption": ""
+    }
+  ],
+  "ocr_time_s": 0.015,
+  "annotated_image": "output\\PMC5618295_00004_annotated.jpg",
+  "summarization": {
+    "sections": [
+      {
+        "title": "Document",
+        "summary": "Figure shows key visual data"
+      }
+    ],
+    "final_summary": "Figure shows key visual data"
+  }
+}

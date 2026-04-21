@@ -1,0 +1,127 @@
+{
+  "file": "input\\PMC3863500_00003.jpg",
+  "image_size": {
+    "width": 601,
+    "height": 792
+  },
+  "n_regions": 6,
+  "det_time_s": 2.285,
+  "regions": [
+    {
+      "id": 0,
+      "label": "text",
+      "bbox": {
+        "x1": 208,
+        "y1": 62,
+        "x2": 389,
+        "y2": 92
+      },
+      "score": 0.996999979019165,
+      "text": "",
+      "segment_summary": ""
+    },
+    {
+      "id": 1,
+      "label": "table",
+      "bbox": {
+        "x1": 39,
+        "y1": 84,
+        "x2": 550,
+        "y2": 584
+      },
+      "score": 0.9959999918937683,
+      "text": "",
+      "segment_summary": "",
+      "rows": 0,
+      "cols": 0,
+      "raw_text": ""
+    },
+    {
+      "id": 2,
+      "label": "text",
+      "bbox": {
+        "x1": 298,
+        "y1": 595,
+        "x2": 558,
+        "y2": 684
+      },
+      "score": 0.9990000128746033,
+      "text": "",
+      "segment_summary": ""
+    },
+    {
+      "id": 3,
+      "label": "text",
+      "bbox": {
+        "x1": 42,
+        "y1": 596,
+        "x2": 301,
+        "y2": 707
+      },
+      "score": 1.0,
+      "text": "",
+      "segment_summary": ""
+    },
+    {
+      "id": 4,
+      "label": "text",
+      "bbox": {
+        "x1": 298,
+        "y1": 664,
+        "x2": 559,
+        "y2": 751
+      },
+      "score": 0.9990000128746033,
+      "text": "",
+      "segment_summary": ""
+    },
+    {
+      "id": 5,
+      "label": "text",
+      "bbox": {
+        "x1": 39,
+        "y1": 686,
+        "x2": 303,
+        "y2": 751
+      },
+      "score": 1.0,
+      "text": "",
+      "segment_summary": ""
+    }
+  ],
+  "titles": [],
+  "text_blocks": [
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "lists": [],
+  "tables": [
+    {
+      "bbox": {
+        "x1": 39,
+        "y1": 84,
+        "x2": 550,
+        "y2": 584
+      },
+      "rows": 0,
+      "cols": 0,
+      "cells": [],
+      "raw_text": ""
+    }
+  ],
+  "figures": [],
+  "ocr_time_s": 0.075,
+  "annotated_image": "output\\PMC3863500_00003_annotated.jpg",
+  "summarization": {
+    "sections": [
+      {
+        "title": "Document",
+        "summary": "Table presents comparison data across 0 columns and 0 rows"
+      }
+    ],
+    "final_summary": "Table presents comparison data across"
+  }
+}

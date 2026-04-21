@@ -1,0 +1,235 @@
+{
+  "file": "input\\test3.jpg",
+  "image_size": {
+    "width": 596,
+    "height": 791
+  },
+  "n_regions": 14,
+  "det_time_s": 2.335,
+  "regions": [
+    {
+      "id": 0,
+      "label": "list",
+      "bbox": {
+        "x1": 306,
+        "y1": 76,
+        "x2": 539,
+        "y2": 144
+      },
+      "score": 0.9940000176429749,
+      "text": "",
+      "segment_summary": ""
+    },
+    {
+      "id": 1,
+      "label": "text",
+      "bbox": {
+        "x1": 46,
+        "y1": 77,
+        "x2": 300,
+        "y2": 144
+      },
+      "score": 0.9980000257492065,
+      "text": "",
+      "segment_summary": ""
+    },
+    {
+      "id": 2,
+      "label": "text",
+      "bbox": {
+        "x1": 46,
+        "y1": 125,
+        "x2": 301,
+        "y2": 276
+      },
+      "score": 0.9990000128746033,
+      "text": "",
+      "segment_summary": ""
+    },
+    {
+      "id": 3,
+      "label": "title",
+      "bbox": {
+        "x1": 294,
+        "y1": 141,
+        "x2": 354,
+        "y2": 173
+      },
+      "score": 0.9829999804496765,
+      "text": "",
+      "segment_summary": ""
+    },
+    {
+      "id": 4,
+      "label": "title",
+      "bbox": {
+        "x1": 295,
+        "y1": 155,
+        "x2": 536,
+        "y2": 198
+      },
+      "score": 0.9819999933242798,
+      "text": "",
+      "segment_summary": ""
+    },
+    {
+      "id": 5,
+      "label": "text",
+      "bbox": {
+        "x1": 294,
+        "y1": 178,
+        "x2": 548,
+        "y2": 353
+      },
+      "score": 1.0,
+      "text": "",
+      "segment_summary": ""
+    },
+    {
+      "id": 6,
+      "label": "text",
+      "bbox": {
+        "x1": 47,
+        "y1": 256,
+        "x2": 300,
+        "y2": 396
+      },
+      "score": 1.0,
+      "text": "",
+      "segment_summary": ""
+    },
+    {
+      "id": 7,
+      "label": "text",
+      "bbox": {
+        "x1": 294,
+        "y1": 335,
+        "x2": 549,
+        "y2": 438
+      },
+      "score": 0.9990000128746033,
+      "text": "",
+      "segment_summary": ""
+    },
+    {
+      "id": 8,
+      "label": "title",
+      "bbox": {
+        "x1": 46,
+        "y1": 389,
+        "x2": 118,
+        "y2": 419
+      },
+      "score": 0.9100000262260437,
+      "text": "",
+      "segment_summary": ""
+    },
+    {
+      "id": 9,
+      "label": "list",
+      "bbox": {
+        "x1": 55,
+        "y1": 413,
+        "x2": 284,
+        "y2": 491
+      },
+      "score": 0.9869999885559082,
+      "text": "",
+      "segment_summary": ""
+    },
+    {
+      "id": 10,
+      "label": "title",
+      "bbox": {
+        "x1": 294,
+        "y1": 437,
+        "x2": 433,
+        "y2": 467
+      },
+      "score": 0.9879999756813049,
+      "text": "",
+      "segment_summary": ""
+    },
+    {
+      "id": 11,
+      "label": "text",
+      "bbox": {
+        "x1": 293,
+        "y1": 448,
+        "x2": 553,
+        "y2": 492
+      },
+      "score": 0.996999979019165,
+      "text": "",
+      "segment_summary": ""
+    },
+    {
+      "id": 12,
+      "label": "figure",
+      "bbox": {
+        "x1": 46,
+        "y1": 492,
+        "x2": 548,
+        "y2": 713
+      },
+      "score": 0.996999979019165,
+      "text": "[FIGURE saved: test3_figure_0.jpg]",
+      "segment_summary": ""
+    },
+    {
+      "id": 13,
+      "label": "text",
+      "bbox": {
+        "x1": 52,
+        "y1": 698,
+        "x2": 541,
+        "y2": 737
+      },
+      "score": 0.9959999918937683,
+      "text": "",
+      "segment_summary": ""
+    }
+  ],
+  "titles": [
+    "",
+    "",
+    "",
+    ""
+  ],
+  "text_blocks": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "lists": [
+    "",
+    ""
+  ],
+  "tables": [],
+  "figures": [
+    {
+      "bbox": {
+        "x1": 46,
+        "y1": 492,
+        "x2": 548,
+        "y2": 713
+      },
+      "caption": ""
+    }
+  ],
+  "ocr_time_s": 0.005,
+  "annotated_image": "output\\test3_annotated.jpg",
+  "summarization": {
+    "sections": [
+      {
+        "title": "",
+        "summary": "Figure shows key visual data"
+      }
+    ],
+    "final_summary": "Figure shows key visual data"
+  }
+}

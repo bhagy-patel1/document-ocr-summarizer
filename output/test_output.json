@@ -1,0 +1,263 @@
+{
+  "file": "input\\test.jpg",
+  "image_size": {
+    "width": 601,
+    "height": 792
+  },
+  "n_regions": 14,
+  "det_time_s": 3.01,
+  "regions": [
+    {
+      "id": 0,
+      "label": "figure",
+      "bbox": {
+        "x1": 46,
+        "y1": 62,
+        "x2": 301,
+        "y2": 260
+      },
+      "score": 0.9980000257492065,
+      "text": "[FIGURE saved: test_figure_0.jpg]",
+      "segment_summary": ""
+    },
+    {
+      "id": 1,
+      "label": "text",
+      "bbox": {
+        "x1": 342,
+        "y1": 62,
+        "x2": 510,
+        "y2": 92
+      },
+      "score": 0.9950000047683716,
+      "text": "",
+      "segment_summary": ""
+    },
+    {
+      "id": 2,
+      "label": "table",
+      "bbox": {
+        "x1": 293,
+        "y1": 78,
+        "x2": 557,
+        "y2": 202
+      },
+      "score": 0.9890000224113464,
+      "text": "",
+      "segment_summary": "",
+      "rows": 0,
+      "cols": 0,
+      "raw_text": ""
+    },
+    {
+      "id": 3,
+      "label": "text",
+      "bbox": {
+        "x1": 298,
+        "y1": 205,
+        "x2": 556,
+        "y2": 295
+      },
+      "score": 0.9980000257492065,
+      "text": "",
+      "segment_summary": ""
+    },
+    {
+      "id": 4,
+      "label": "text",
+      "bbox": {
+        "x1": 39,
+        "y1": 249,
+        "x2": 298,
+        "y2": 311
+      },
+      "score": 0.9990000128746033,
+      "text": "",
+      "segment_summary": ""
+    },
+    {
+      "id": 5,
+      "label": "text",
+      "bbox": {
+        "x1": 298,
+        "y1": 274,
+        "x2": 558,
+        "y2": 393
+      },
+      "score": 1.0,
+      "text": "",
+      "segment_summary": ""
+    },
+    {
+      "id": 6,
+      "label": "text",
+      "bbox": {
+        "x1": 67,
+        "y1": 309,
+        "x2": 271,
+        "y2": 339
+      },
+      "score": 0.9959999918937683,
+      "text": "",
+      "segment_summary": ""
+    },
+    {
+      "id": 7,
+      "label": "table",
+      "bbox": {
+        "x1": 41,
+        "y1": 325,
+        "x2": 300,
+        "y2": 491
+      },
+      "score": 0.9980000257492065,
+      "text": "",
+      "segment_summary": "",
+      "rows": 0,
+      "cols": 0,
+      "raw_text": ""
+    },
+    {
+      "id": 8,
+      "label": "title",
+      "bbox": {
+        "x1": 298,
+        "y1": 393,
+        "x2": 385,
+        "y2": 426
+      },
+      "score": 0.9950000047683716,
+      "text": "",
+      "segment_summary": ""
+    },
+    {
+      "id": 9,
+      "label": "text",
+      "bbox": {
+        "x1": 298,
+        "y1": 414,
+        "x2": 559,
+        "y2": 731
+      },
+      "score": 0.9990000128746033,
+      "text": "",
+      "segment_summary": ""
+    },
+    {
+      "id": 10,
+      "label": "text",
+      "bbox": {
+        "x1": 40,
+        "y1": 488,
+        "x2": 303,
+        "y2": 531
+      },
+      "score": 0.9869999885559082,
+      "text": "",
+      "segment_summary": ""
+    },
+    {
+      "id": 11,
+      "label": "text",
+      "bbox": {
+        "x1": 40,
+        "y1": 524,
+        "x2": 299,
+        "y2": 636
+      },
+      "score": 0.9990000128746033,
+      "text": "",
+      "segment_summary": ""
+    },
+    {
+      "id": 12,
+      "label": "text",
+      "bbox": {
+        "x1": 41,
+        "y1": 631,
+        "x2": 301,
+        "y2": 753
+      },
+      "score": 1.0,
+      "text": "",
+      "segment_summary": ""
+    },
+    {
+      "id": 13,
+      "label": "text",
+      "bbox": {
+        "x1": 299,
+        "y1": 709,
+        "x2": 558,
+        "y2": 753
+      },
+      "score": 0.9990000128746033,
+      "text": "",
+      "segment_summary": ""
+    }
+  ],
+  "titles": [
+    ""
+  ],
+  "text_blocks": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "lists": [],
+  "tables": [
+    {
+      "bbox": {
+        "x1": 293,
+        "y1": 78,
+        "x2": 557,
+        "y2": 202
+      },
+      "rows": 0,
+      "cols": 0,
+      "cells": [],
+      "raw_text": ""
+    },
+    {
+      "bbox": {
+        "x1": 41,
+        "y1": 325,
+        "x2": 300,
+        "y2": 491
+      },
+      "rows": 0,
+      "cols": 0,
+      "cells": [],
+      "raw_text": ""
+    }
+  ],
+  "figures": [
+    {
+      "bbox": {
+        "x1": 46,
+        "y1": 62,
+        "x2": 301,
+        "y2": 260
+      },
+      "caption": ""
+    }
+  ],
+  "ocr_time_s": 0.042,
+  "annotated_image": "output\\test_annotated.jpg",
+  "summarization": {
+    "sections": [
+      {
+        "title": "Document",
+        "summary": "Table: This table presents comparison data across 0 columns and 0 rows. [FIGURE: This figure shows key visual data from the document"
+      }
+    ],
+    "final_summary": "Figures show key visual data from the document. Table presents comparison data across 0 columns"
+  }
+}

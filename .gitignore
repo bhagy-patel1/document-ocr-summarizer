@@ -19,8 +19,6 @@ weights/*.pth
 weights/*.pkl
 
 # Input / output data
-input/
-output/
 
 # Jupyter
 .ipynb_checkpoints/

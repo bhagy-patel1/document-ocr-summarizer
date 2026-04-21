@@ -1,0 +1,21 @@
+{
+  "file": "input\\annotations.png",
+  "image_size": {
+    "width": 908,
+    "height": 5471
+  },
+  "n_regions": 0,
+  "det_time_s": 1.397,
+  "regions": [],
+  "titles": [],
+  "text_blocks": [],
+  "lists": [],
+  "tables": [],
+  "figures": [],
+  "ocr_time_s": 0.0,
+  "annotated_image": "output\\annotations_annotated.jpg",
+  "summarization": {
+    "sections": [],
+    "final_summary": "No content to summarize."
+  }
+}
