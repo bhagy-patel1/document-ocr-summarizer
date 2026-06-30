@@ -5,7 +5,7 @@
 torch==2.0.1
 torchvision==0.15.2
 
-# Detectron2 — install separately (see README)
+# Detectron2 — install separately 
 # pip install git+https://github.com/facebookresearch/detectron2.git
 
 # Transformer OCR — removed (using PaddleOCR instead)
