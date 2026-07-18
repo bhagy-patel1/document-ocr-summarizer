@@ -35,27 +35,47 @@ Detects and extracts structured content — titles, text blocks, lists, tables, 
 ## 🏗 Architecture
 
 ```
-Input (image / PDF)
-        │
-        ▼
-┌───────────────────┐
-│  Layout Detection  │  ← Detectron2 Mask R-CNN (PubLayNet weights)
-│  detect_layout()  │     Outputs: boxes, scores, class IDs
-└────────┬──────────┘
-         │  sorted top → bottom (reading order)
-         ▼
-┌────────────────────────────────────────────┐
-│              Region Router                  │
-│                                            │
-│  title / text / list → PaddleOCR          │
-│  table               → extract_table()    │
-│  figure              → save crop as .jpg  │
-└────────────────────────────────────────────┘
-         │
-         ▼
-┌───────────────────┐
-│   Structured JSON  │  + Annotated image
-└───────────────────┘
+                 +----------------------+
+                 |   Image / PDF Input  |
+                 +----------+-----------+
+                            |
+                            v
+        +-------------------------------------------+
+        | Layout Detection (Detectron2 Mask R-CNN)  |
+        |         PubLayNet Pretrained Model         |
+        +------------------+------------------------+
+                           |
+                           v
+              +-----------------------------+
+              | Reading Order Arrangement   |
+              | (Top → Bottom → Left → Right)|
+              +--------------+--------------+
+                             |
+                             v
+                   +-------------------+
+                   |   Region Router   |
+                   +---+-------+-------+
+                       |       |       |
+          +------------+       |       +-------------+
+          |                    |                     |
+          v                    v                     v
+   +-------------+      +-------------+      +---------------+
+   | PaddleOCR   |      | Table Parser|      | Figure Extract |
+   | Text Blocks |      | Tables      |      | Save as Images |
+   +------+------+      +------+------+      +-------+--------+
+          \                    |                     /
+           \___________________|____________________/
+                               |
+                               v
+                  +-----------------------------+
+                  |      Structured Output      |
+                  |-----------------------------|
+                  | • JSON                      |
+                  | • OCR Text                  |
+                  | • Tables                    |
+                  | • Figure Crops              |
+                  | • Annotated Image           |
+                  +-----------------------------+
 ```
 
 **Table extraction pipeline:**
